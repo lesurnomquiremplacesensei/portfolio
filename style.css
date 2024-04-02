@@ -1,0 +1,60 @@
+.presentation{
+  width: 600px;
+  margin: 25px auto;
+  border-radius: 25px;
+  background-color: rgb(125, 12, 45);
+  padding: 30px;
+  text-align: center;
+  color: white;
+  box-shadow: 9px 9px 10px black;
+}
+.presentation img{
+  width: 200px;
+  height: 220px;
+  border-radius: 120px;
+}
+.presentation p {
+  font-size: 25px;
+}
+.reseau{
+  width: 600px;
+  margin: 25px auto;
+  border-radius: 25px;
+  border-radius: 25px;
+  background-color: rgb(125, 12, 45);
+  padding: 25px;
+  text-align: center;
+  color: white;
+  box-shadow: 9px 9px 10px black;
+}
+.reseau p{
+  font-size: 25px;
+}
+.reseau img{
+  width: 30px;
+  height: 30px;
+  padding: 15px;
+}
+.reseau img{
+  list-style-type: none;
+}
+.reseau img:hover{
+  background-color: rgba(104, 45, 6, 0.988);
+  border-radius: 15px;
+  width: 30px;
+  height: 30px;
+}
+.passions{
+  width: 600px;
+  margin: 25px auto;
+  border-radius: 25px;
+  border-radius: 25px;
+  background-color: rgb(125, 12, 45);
+  padding: 25px;
+  text-align: center;
+  color: white;
+  box-shadow: 9px 9px 10px black;
+}
+.passions p{
+  font-size: 25px;
+}
